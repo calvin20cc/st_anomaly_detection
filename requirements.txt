@@ -1,2 +1,3 @@
 snowflake-connector-python
 great_expectations
+pandas
