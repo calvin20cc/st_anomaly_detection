@@ -3,7 +3,7 @@ from datetime import datetime
 import time
 import pandas as pd
 import snowflake.connector
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 import os
 
 import great_expectations as gx
